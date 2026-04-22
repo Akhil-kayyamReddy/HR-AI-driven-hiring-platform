@@ -33,7 +33,9 @@ cd hr-ai-hiring-platform
 pip install -r requirements.txt
 python app.py
 
-📌 Step-by-Step Workflow:
+
+
+## **Step-by-Step Workflow:**
 User Input
 Recruiter enters:
 Resume text
